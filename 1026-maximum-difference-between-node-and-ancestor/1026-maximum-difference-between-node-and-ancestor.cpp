@@ -11,30 +11,18 @@
  */
 class Solution {
 public:
-   int maxdiff;
-    void maxdiffutil(TreeNode * root,TreeNode* child){
-        if(root==NULL|| child==NULL){
-            return;
-        }
-        maxdiff=max(maxdiff,abs(root->val - child->val));
-        maxdiffutil(root,child->left);
-        maxdiffutil(root,child->right);
+int tree(TreeNode* root,int maxx,int minn){
+    if(root==NULL){
+        return maxx-minn;
     }
 
-    void maxdi(TreeNode* root){
-        if(root==NULL){
-            return;
-        }
-        maxdiffutil(root,root->left);
-        maxdiffutil(root,root->right);
-     
-   maxdi(root->left);
-   maxdi(root->right);
-
-    }
+    maxx=max(maxx,root->val);
+    minn=min(minn,root->val);
+  int left=tree(root->left,maxx,minn);
+    int right=tree(root->right,maxx,minn);
+    return max(left,right);
+}
     int maxAncestorDiff(TreeNode* root) {
-        maxdiff=-1;
-        maxdi(root);
-        return maxdiff;
+       return tree(root,root->val,root->val);
     }
 };
