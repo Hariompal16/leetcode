@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Hariompal16/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0872-leaf-similar-trees](https://github.com/Hariompal16/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Hariompal16/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Hariompal16/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0872-leaf-similar-trees](https://github.com/Hariompal16/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Hariompal16/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Hariompal16/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0872-leaf-similar-trees](https://github.com/Hariompal16/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Hariompal16/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
