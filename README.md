@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hariompal16/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Hariompal16/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hariompal16/leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hariompal16/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Hariompal16/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hariompal16/leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -27,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hariompal16/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Hariompal16/leetcode/tree/master/0112-path-sum) |
 | [0623-add-one-row-to-tree](https://github.com/Hariompal16/leetcode/tree/master/0623-add-one-row-to-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Hariompal16/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Hariompal16/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hariompal16/leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
