@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Hariompal16/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Hariompal16/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Hariompal16/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Hariompal16/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Hariompal16/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Hariompal16/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
