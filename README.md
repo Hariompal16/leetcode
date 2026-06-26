@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Hariompal16/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Hariompal16/leetcode/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Hariompal16/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hariompal16/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Hariompal16/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Hariompal16/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Hariompal16/leetcode/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Hariompal16/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Hariompal16/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Hariompal16/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -73,5 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Hariompal16/leetcode/tree/master/0652-find-duplicate-subtrees) |
+## Array
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
