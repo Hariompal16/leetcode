@@ -91,5 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Hariompal16/leetcode/tree/master/0062-unique-paths) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Hariompal16/leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Hariompal16/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
