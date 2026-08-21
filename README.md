@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0735-asteroid-collision](https://github.com/Hariompal16/leetcode/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Hariompal16/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hariompal16/leetcode/tree/master/0200-number-of-islands) |
+| [0735-asteroid-collision](https://github.com/Hariompal16/leetcode/tree/master/0735-asteroid-collision) |
 | [0994-rotting-oranges](https://github.com/Hariompal16/leetcode/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/Hariompal16/leetcode/tree/master/0433-minimum-genetic-mutation) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Hariompal16/leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
