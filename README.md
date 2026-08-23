@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Hariompal16/leetcode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Hariompal16/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Hariompal16/leetcode/tree/master/0200-number-of-islands) |
+| [0455-assign-cookies](https://github.com/Hariompal16/leetcode/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/Hariompal16/leetcode/tree/master/0735-asteroid-collision) |
 | [0994-rotting-oranges](https://github.com/Hariompal16/leetcode/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
@@ -147,4 +148,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Hariompal16/leetcode/tree/master/0735-asteroid-collision) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Hariompal16/leetcode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Hariompal16/leetcode/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Hariompal16/leetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Hariompal16/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
