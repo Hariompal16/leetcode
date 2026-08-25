@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Hariompal16/leetcode/tree/master/0210-course-schedule-ii) |
 | [0623-add-one-row-to-tree](https://github.com/Hariompal16/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Hariompal16/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0802-find-eventual-safe-states](https://github.com/Hariompal16/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0872-leaf-similar-trees](https://github.com/Hariompal16/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Hariompal16/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Hariompal16/leetcode/tree/master/0210-course-schedule-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Hariompal16/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0623-add-one-row-to-tree](https://github.com/Hariompal16/leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0802-find-eventual-safe-states](https://github.com/Hariompal16/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Hariompal16/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -144,11 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Hariompal16/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hariompal16/leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Hariompal16/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Hariompal16/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hariompal16/leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Hariompal16/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## String
 |  |
 | ------- |
@@ -184,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Hariompal16/leetcode/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Hariompal16/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Hariompal16/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
