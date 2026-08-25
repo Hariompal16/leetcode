@@ -8,8 +8,8 @@ public:
         
         queue<int> que;
 	    vector<int> indegree(V, 0);
-	    int count = 0;
-	    //1
+	    
+	
 	    for(int u = 0; u < V; u++) {
 	        for(int &v : graph[u]) {
                 adj[v].push_back(u);
@@ -17,15 +17,15 @@ public:
 	        }
 	    }
 	    
-	    //2. Fill que, indegree with 0
+	    
 	    for(int i = 0; i < V; i++) {
 	        if(indegree[i] == 0) {
 	            que.push(i);
-	            count++;
+	           
 	        }
 	    }
 	    
-	    //3. Simple BFS
+	  
         vector<bool> safe(V, false);
 	    while(!que.empty()) {
 	        int u = que.front();
@@ -37,7 +37,7 @@ public:
 	            
 	            if(indegree[v] == 0) {
 	                que.push(v);
-	                count++;
+	              
 	            }
 	            
 	        }
