@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Hariompal16/leetcode/tree/master/0735-asteroid-collision) |
 | [0994-rotting-oranges](https://github.com/Hariompal16/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hariompal16/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Hariompal16/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Divide and Conquer
 |  |
 | ------- |
