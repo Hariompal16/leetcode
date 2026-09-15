@@ -94,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hariompal16/leetcode/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/Hariompal16/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0652-find-duplicate-subtrees](https://github.com/Hariompal16/leetcode/tree/master/0652-find-duplicate-subtrees) |
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hariompal16/leetcode/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/Hariompal16/leetcode/tree/master/0064-minimum-path-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Hariompal16/leetcode/tree/master/0130-surrounded-regions) |
