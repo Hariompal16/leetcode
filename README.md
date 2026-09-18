@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Hariompal16/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Hariompal16/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Hariompal16/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/Hariompal16/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Hariompal16/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Hariompal16/leetcode/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/Hariompal16/leetcode/tree/master/0735-asteroid-collision) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Hariompal16/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Hariompal16/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Hariompal16/leetcode/tree/master/0605-can-place-flowers) |
 ## Sorting
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hariompal16/leetcode/tree/master/0238-product-of-array-except-self) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Hariompal16/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
