@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Hariompal16/leetcode/tree/master/0072-edit-distance) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Hariompal16/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Hariompal16/leetcode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Hariompal16/leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hariompal16/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Hariompal16/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Hariompal16/leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Hariompal16/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hariompal16/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Hariompal16/leetcode/tree/master/0392-is-subsequence) |
 | [0433-minimum-genetic-mutation](https://github.com/Hariompal16/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Hariompal16/leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hariompal16/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Hariompal16/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Hariompal16/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hariompal16/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Hariompal16/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Hariompal16/leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Hariompal16/leetcode/tree/master/0455-assign-cookies) |
 | [1768-merge-strings-alternately](https://github.com/Hariompal16/leetcode/tree/master/1768-merge-strings-alternately) |
