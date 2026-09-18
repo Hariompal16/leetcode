@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hariompal16/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/Hariompal16/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0652-find-duplicate-subtrees](https://github.com/Hariompal16/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Hariompal16/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Array
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Hariompal16/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hariompal16/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Hariompal16/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Hariompal16/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Hariompal16/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Hariompal16/leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Hariompal16/leetcode/tree/master/0455-assign-cookies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Hariompal16/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Hariompal16/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Hariompal16/leetcode/tree/master/0455-assign-cookies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Hariompal16/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Quicksort
 |  |
 | ------- |
