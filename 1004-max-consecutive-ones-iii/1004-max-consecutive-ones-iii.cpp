@@ -4,13 +4,8 @@ public:
         int i=0;
         int j=0;
         int count=0;
-        while(j<nums.size()&&count){
-           if(nums[j]==0){
-            count--;
-           }
-           j++;
-        }
-        int maxx=j-i;
+        
+        int maxx=INT_MIN;
         while(j<nums.size()){
            if(nums[j]==1){
             j++;
