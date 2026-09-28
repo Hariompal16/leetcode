@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Hariompal16/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Hariompal16/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Hariompal16/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Hariompal16/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hariompal16/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Hariompal16/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Hariompal16/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
